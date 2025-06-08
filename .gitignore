@@ -1,0 +1,21 @@
+# Large data files
+SequenceModellingBasics/codes_data/cleaned_train.csv
+SequenceModellingBasics/codes_data/glove.6B.100d.txt
+SequenceModellingBasics/codes_data/Bilstm_glove_model.h5
+SequenceModellingBasics/codes_data/X_val.pkl
+SequenceModellingBasics/codes_data/y_val.pkl
+SequenceModellingBasics/codes_data/tokenizer.pkl
+GradCam/codes_model/myvgg_model.pth
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS files
+.DS_Store
+Thumbs.db
