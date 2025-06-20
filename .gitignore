@@ -7,6 +7,15 @@ SequenceModellingBasics/codes_data/y_val.pkl
 SequenceModellingBasics/codes_data/tokenizer.pkl
 GradCam/codes_model/myvgg_model.pth
 
+Seq2Seq/codes_data/eng_tokenizer.pkl
+Seq2Seq/codes_data/fra_tokenizer.pkl
+Seq2Seq/codes_data/en_embedding_matrix.pkl
+Seq2Seq/codes_data/fra.txt
+Seq2Seq/codes_data/config.json
+Seq2Seq/codes_data/data.npz
+Seq2Seq/codes_data/best_model_part2_attention.h5
+Seq2Seq/codes_data/lstm_no_attention.h5
+
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
