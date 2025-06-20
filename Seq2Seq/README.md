@@ -26,7 +26,7 @@ Sequence-to-Sequence models are powerful for translation tasks where input and o
 - `part2_attention.ipynb` → Attention-based improvements  
 - `part3_transformer.ipynb` → Hugging Face transformer implementation  
 - `part4_bonus.ipynb`→ Bonus Attention Visualization Task
-- `visualization`→ Visualizations (`vis_1` to `vis_5`)  
+- `visualizations`→ Visualizations (`vis_1` to `vis_5`)  
 - `report/` → Final Report 
 
 ---
