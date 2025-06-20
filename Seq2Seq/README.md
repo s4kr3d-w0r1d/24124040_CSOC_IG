@@ -35,7 +35,7 @@ Sequence-to-Sequence models are powerful for translation tasks where input and o
 
 - **BLEU-4 Score**:  
   - Vanilla Seq2Seq: **~28.8%**  
-  - With Attention: **~45.7%**  
+  - With Attention: **~37.12%**  
   - Transformer: **~56.8%**  
 - **Visualization**: Attention maps revealed linguistic alignment quality.  
 - **Inference**: Smooth and fluent translations with the Transformer model.
