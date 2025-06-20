@@ -26,7 +26,7 @@ Sequence-to-Sequence models are powerful for translation tasks where input and o
 - `part2_attention.ipynb` → Attention-based improvements  
 - `part3_transformer.ipynb` → Hugging Face transformer implementation  
 - `part4_bonus.ipynb`→ Bonus Attention Visualization Task
-- `visualization`→ Visualizations (`vis_1` to `vis_5`)  
+- `visualizations`→ Visualizations (`vis_1` to `vis_5`)  
 - `report/` → Final Report 
 
 ---
@@ -35,7 +35,7 @@ Sequence-to-Sequence models are powerful for translation tasks where input and o
 
 - **BLEU-4 Score**:  
   - Vanilla Seq2Seq: **~28.8%**  
-  - With Attention: **~45.7%**  
+  - With Attention: **~37.12%**  
   - Transformer: **~56.8%**  
 - **Visualization**: Attention maps revealed linguistic alignment quality.  
 - **Inference**: Smooth and fluent translations with the Transformer model.
